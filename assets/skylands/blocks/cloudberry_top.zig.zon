@@ -1,0 +1,12 @@
+.{
+	.tags = .{.choppable, .wood},
+	.blockHealth = 8,
+	.drops = .{
+		.{.items = .{"skylands:log/cloudberry"}},
+	},
+	.rotation = "cubyz:direction",
+	.model = "cubyz:cube",
+	.texture = "skylands:cloudberry_log",
+	.texture_top = "skylands:cloudberry_log",
+	.texture_bottom = "skylands:cloudberry_log_top",
+}

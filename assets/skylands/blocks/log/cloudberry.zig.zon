@@ -1,0 +1,8 @@
+.{
+	.texture0 = "skylands:log/cloudberry/dot",
+	.texture1 = "skylands:log/cloudberry/line",
+	.texture2 = "skylands:log/cloudberry/bend",
+	.texture3 = "skylands:log/cloudberry/intersection",
+	.texture4 = "skylands:log/cloudberry/cross",
+	.texture5 = "skylands:log/cloudberry/top",
+}

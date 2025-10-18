@@ -1,0 +1,6 @@
+.{
+	.texture = "skylands:sign/cloudberry",
+	.item = .{
+		.texture = "sign/cloudberry.png",
+	},
+}

@@ -1,0 +1,14 @@
+.{
+	.drops = .{
+		.{.items = .{"skylands:cloudberry_leaves", "skylands:cloudberry_branch"}},
+	},
+	.texture = "skylands:cloudberry_leaves",
+	.texture6 = "skylands:branch/cloudberry/dot",
+	.texture7 = "skylands:branch/cloudberry/half_line",
+	.texture8 = "skylands:branch/cloudberry/line",
+	.texture9 = "skylands:branch/cloudberry/bend",
+	.texture10 = "skylands:branch/cloudberry/intersection",
+	.texture11 = "skylands:branch/cloudberry/cross",
+	.lodReplacement = "skylands:cloudberry_leaves_opaque",
+	.opaqueVariant = "skylands:cloudberry_leaves_opaque",
+}

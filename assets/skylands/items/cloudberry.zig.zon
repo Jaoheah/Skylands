@@ -1,0 +1,4 @@
+.{
+	.texture = "cloudberry.png",
+	.food = 10,
+}

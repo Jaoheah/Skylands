@@ -1,0 +1,18 @@
+.{
+	.{
+		.inputs = .{"{mod}:{item}"},
+		.output = "{mod}:{item}_tile",
+	},
+	.{
+		.inputs = .{"{mod}:{item}"},
+		.output = "{mod}:{item}_bricks",
+	},
+	.{
+		.inputs = .{"{mod}:{item}"},
+		.output = "2 {mod}:{item}_wall",
+	},
+	.{
+		.inputs = .{"cubyz:slate"},
+		.output = "cubyz:cobblestone",
+	},
+}
